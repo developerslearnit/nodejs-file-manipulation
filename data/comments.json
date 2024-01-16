@@ -1,0 +1,121 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "body": "This is some awesome thinking!",
+      "postId": 1,
+      "user": {
+        "id": 1,
+        "username": "eburras1q"
+      }
+    },
+    {
+      "id": 2,
+      "body": "What terrific math skills you’re showing!",
+      "postId": 1,
+      "user": {
+        "id": 9,
+        "username": "omarsland1y"
+      }
+    },
+    {
+      "id": 3,
+      "body": "You are an amazing writer!",
+      "postId": 2,
+      "user": {
+        "id": 10,
+        "username": "jissetts"
+      }
+    },
+    {
+      "id": 4,
+      "body": "Wow! You have improved so much!",
+      "postId": 1,
+      "user": {
+        "id": 10,
+        "username": "bleveragei"
+      }
+    },
+    {
+      "id": 5,
+      "body": "Nice idea!",
+      "postId": 2,
+      "user": {
+        "id": 8,
+        "username": "cmasurel1x"
+      }
+    },
+    {
+      "id": 6,
+      "body": "You are showing excellent understanding!",
+      "postId": 5,
+      "user": {
+        "id": 7,
+        "username": "cdavydochkin2o"
+      }
+    },
+    {
+      "id": 7,
+      "body": "This is clear, concise, and complete!",
+      "postId": 4,
+      "user": {
+        "id": 6,
+        "username": "froachel"
+      }
+    },
+    {
+      "id": 8,
+      "body": "What a powerful argument!",
+      "postId": 4,
+      "user": {
+        "id": 5,
+        "username": "kogilvy29"
+      }
+    },
+    {
+      "id": 9,
+      "body": "I knew you could do it!",
+      "postId": 5,
+      "user": {
+        "id": 4,
+        "username": "smargiottau"
+      }
+    },
+    {
+      "id": 10,
+      "body": "Wonderful ideas!",
+      "postId": 3,
+      "user": {
+        "id": 3,
+        "username": "mbrooksbanky"
+      }
+    },
+    {
+      "id": 11,
+      "body": "It was a pleasure to grade this!",
+      "postId": 2,
+      "user": {
+        "id": 2,
+        "username": "rstrettle1v"
+      }
+    },
+    {
+      "id": 12,
+      "body": "Keep up the incredible work!",
+      "postId": 2,
+      "user": {
+        "id": 1,
+        "username": "rkingswood24"
+      }
+    },
+    {
+      "id": 13,
+      "body": "My goodness, how impressive!",
+      "postId": 5,
+      "user": {
+        "id": 2,
+        "username": "xisherwoodr"
+      }
+    }
+  ]
+}
